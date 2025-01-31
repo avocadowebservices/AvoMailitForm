@@ -23,7 +23,8 @@ A fully custom contact form plugin for AvocadoWeb Services with settings for Bre
 
 == Frequently Asked Question ==
 
-N/A
+Q) What is this form? Why create other one?
+A) The answer is, I'm tired of trying many different kind of plugins and it doesn't have my customized needs so I created this simple contact form that works just like that.
 
 == Changelog ==
 
@@ -35,7 +36,7 @@ N/A
 
 == Requirements ==
 
-To have this plugin to fuction, your wordpress version must be at least 6.7.0 or greater.
+To have this plugin to fuction, your wordpress version must be at least 6.7.1 or greater.
 
 == Misc ==
 
