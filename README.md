@@ -9,18 +9,18 @@ A fully custom contact form plugin for AvocadoWeb Services with settings for Bre
 == Installation ==
 
 = To install the plugin via WordPress Dashboard: = ( COMING SOON )
-
-In the WordPress admin panel, navigate to Plugin > Add new
-Search for Send It Form
-Click install and wait for the installation to finish. Next, click the activate link
+1) In the WordPress admin panel, navigate to Plugin > Add new
+2) Search for Send It Form
+3) Click install and wait for the installation to finish. Next, click the activate link
 
 
 = To install the plugin manually: =
+1) Download and unzip the plugin package - send-it-form-v1.0.zip
+2) Upload the send-it-form to /wp-content/plugins/
+3) Activate the plugin through the 'Plugins' menu in WordPress
+4) The plugin will show up as 'Send it Form' menu link on the left where you can put setting details to have your contact form funcionally.
 
-Download and unzip the plugin package - send-it-form-v1.0.zip
-Upload the send-it-form to /wp-content/plugins/
-Activate the plugin through the 'Plugins' menu in WordPress
-The plugin will show up as 'Send it Form' menu link on the left where you can put setting details to have your contact form funcionally.
+
 == Frequently Asked Question ==
 
 N/A
