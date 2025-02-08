@@ -4,7 +4,7 @@ Plugin Name: Send It Form
 Plugin URI: https://avocadoweb.net
 Description: A fully custom contact form plugin for AvocadoWeb Services with settings for Brevo SMTP, reCAPTCHA, and Akismet.
 Version: 2.2
-Author: AvocadoWeb
+Author: Joseph Brzezowski / AvocadoWeb Services LLC
 Author URI: https://avocadoweb.net
 License: GPL2
 */
