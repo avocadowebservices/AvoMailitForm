@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Send It Form
+Plugin Name: AvoMailForm
 Plugin URI: https://avocadoweb.net
 Description: A fully custom contact form plugin for AvocadoWeb Services with settings for Brevo SMTP, reCAPTCHA, and Akismet.
 Version: 2.2
@@ -16,8 +16,8 @@ if (!defined('ABSPATH')) {
 // ✅ Register the Admin Menu for Settings Page
 function avocadoweb_create_menu() {
     add_menu_page(
-        'Send It Form Settings', // Page Title
-        'Send It Form', // Menu Title in Admin Sidebar
+        'AvoMailForm', // Page Title
+        'AvoMailForm', // Menu Title in Admin Sidebar
         'manage_options', // Capability (Only Admins Can See It)
         'avocadoweb-settings', // Menu Slug (Must Match URL Slug)
         'avocadoweb_settings_page', // Function to Display Page
