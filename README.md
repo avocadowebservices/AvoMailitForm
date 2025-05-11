@@ -1,5 +1,12 @@
 # AvoMailForm - WordPress Plugin
 
+![License](https://img.shields.io/badge/license-GPLv2-blue)
+![Version](https://img.shields.io/badge/version-1.1.0-brightgreen)
+![WordPress Tested](https://img.shields.io/badge/WordPress-6.7.1-blue)
+![Plugin Status](https://img.shields.io/badge/status-beta-yellow)
+![Built by](https://img.shields.io/badge/built%20by-AvocadoWeb-brightgreen)
+
+
 ## Description
 **AvoMailForm** is a simple and elegant contact form plugin for WordPress. This plugin helps website owners collect user inquiries by displaying a customizable contact form with email functionality.
 
